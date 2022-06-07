@@ -12,6 +12,166 @@
       "groups": {
         "": "/proxy/api/mangasee/chapter/Vanitas-No-Shuki-chapter-1"
       }
+    },
+    "2": {
+      "title": "Memoire 2- Noé: In the City of Flowers",
+      "volume": "",
+      "last_updated": "1654619191",
+      "groups": {
+        "": "/proxy/api/mangasee/chapter/Vanitas-No-Shuki-chapter-2"
+      }
+    },
+    "3": {
+      "title": "Memoire 3- Jeanne: The Hellfire Witch",
+      "volume": "",
+      "last_updated": "1654619290",
+      "groups": {
+        "": "/proxy/api/mangasee/chapter/Vanitas-No-Shuki-chapter-3"
+      }
+    },
+    "4": {
+      "title": "Memoire 4- Femme Fatale: Love",
+      "volume": "",
+      "last_updated": "1654619384",
+      "groups": {
+        "": "/proxy/api/mangasee/chapter/Vanitas-No-Shuki-chapter-4"
+      }
+    },
+    "5": {
+      "title": "Memoire 5- Archiviste: Fangs That Reveal Blood",
+      "volume": "",
+      "last_updated": "1654619482",
+      "groups": {
+        "": "/proxy/api/mangasee/chapter/Vanitas-No-Shuki-chapter-5"
+      }
+    },
+    "6": {
+      "title": "Memoire 6- Altus: Other World",
+      "volume": "",
+      "last_updated": "1654619528",
+      "groups": {
+        "": "/proxy/api/mangasee/chapter/Vanitas-No-Shuki-chapter-6"
+      }
+    },
+    "7": {
+      "title": "Memoire 7- Bal Masqué: Night of Sneering Masks",
+      "volume": "",
+      "last_updated": "1654622669",
+      "groups": {
+        "": "/proxy/api/mangasee/chapter/Vanitas-No-Shuki-chapter-7"
+      }
+    },
+    "8": {
+      "title": "Memoire 8- Louis: Sinking in a Pool of Blood",
+      "volume": "",
+      "last_updated": "1654622724",
+      "groups": {
+        "": "/proxy/api/mangasee/chapter/Vanitas-No-Shuki-chapter-8"
+      }
+    },
+    "9": {
+      "title": "Memoire 9- Réminiscence: Friends",
+      "volume": "",
+      "last_updated": "1654622765",
+      "groups": {
+        "": "/proxy/api/mangasee/chapter/Vanitas-No-Shuki-chapter-9"
+      }
+    },
+    "10": {
+      "title": "Memoire 10- Salvatio: Uncertainty",
+      "volume": "",
+      "last_updated": "1654622816",
+      "groups": {
+        "": "/proxy/api/mangasee/chapter/Vanitas-No-Shuki-chapter-10"
+      }
+    },
+    "11": {
+      "title": "Memoire 11- Deux Ombres: Point of Departure",
+      "volume": "",
+      "last_updated": "1654622890",
+      "groups": {
+        "": "/proxy/api/mangasee/chapter/Vanitas-No-Shuki-chapter-11"
+      }
+    },
+    "12": {
+      "title": "Memoire 12- Pause",
+      "volume": "",
+      "last_updated": "1654622969",
+      "groups": {
+        "": "/proxy/api/mangasee/chapter/Vanitas-No-Shuki-chapter-12"
+      }
+    },
+    "13": {
+      "title": "Memoire 13- Glissando: Glissando",
+      "volume": "",
+      "last_updated": "1654623029",
+      "groups": {
+        "": "/proxy/api/mangasee/chapter/Vanitas-No-Shuki-chapter-13"
+      }
+    },
+    "14": {
+      "title": "Memoire 14- Catacombes: Where the Dead Sleep",
+      "volume": "",
+      "last_updated": "1654623067",
+      "groups": {
+        "": "/proxy/api/mangasee/chapter/Vanitas-No-Shuki-chapter-14"
+      }
+    },
+    "15": {
+      "title": "Memoire 15- Chasseur: Those Who Hunt Crimson",
+      "volume": "",
+      "last_updated": "1654623099",
+      "groups": {
+        "": "/proxy/api/mangasee/chapter/Vanitas-No-Shuki-chapter-15"
+      }
+    },
+    "16": {
+      "title": "Memoire 16- Galop: At the End of the Riot",
+      "volume": "",
+      "last_updated": "1654623765",
+      "groups": {
+        "": "/proxy/api/mangasee/chapter/Vanitas-No-Shuki-chapter-16"
+      }
+    },
+    "17": {
+      "title": "Memoire 17- Cicatrice: No.69",
+      "volume": "",
+      "last_updated": "1654623828",
+      "groups": {
+        "": "/proxy/api/mangasee/chapter/Vanitas-No-Shuki-chapter-17"
+      }
+    },
+    "18": {
+      "title": "Memoire 18- Dos à dos: The Shape of Salvation",
+      "volume": "",
+      "last_updated": "1654623881",
+      "groups": {
+        "": "/proxy/api/mangasee/chapter/Vanitas-No-Shuki-chapter-18"
+      }
+    },
+    "19": {
+      "title": "Memoire 19- Serment: Spell-Bound",
+      "volume": "",
+      "last_updated": "1654624128",
+      "groups": {
+        "": "/proxy/api/mangasee/chapter/Vanitas-No-Shuki-chapter-19"
+      }
+    },
+    "20": {
+      "title": "Memoire 20- Serment: Promise (Part One)",
+      "volume": "",
+      "last_updated": "1654624163",
+      "groups": {
+        "": "/proxy/api/mangasee/chapter/Vanitas-No-Shuki-chapter-20"
+      }
+    },
+    "21": {
+      "title": "Memoire 21- Serment: Promise (Part Two)",
+      "volume": "",
+      "last_updated": "1654624216",
+      "groups": {
+        "": "/proxy/api/mangasee/chapter/Vanitas-No-Shuki-chapter-21"
+      }
     }
   }
 }
